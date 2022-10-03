@@ -19,6 +19,7 @@ TBA
 
 ### References
 
+- [MLT(Machine Learning Tutorial)](https://github.com/briankimstudio/ML_Tutorial)
 ### Programming Tools
 - Visual Studio Code
 - Anaconda
