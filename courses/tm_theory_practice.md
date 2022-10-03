@@ -32,10 +32,16 @@ This course is prepared as a graduate level to provide overview of technology ma
 
 ## Projects
 
-- Research paper presentation
+- Presentation
 
-## References
 
-- Schilling, M. A. (2012). Strategic Management of Technological Innovation (4th Editio). McGraw-Hill/Irwin.
+## Textbooks & References
+
+- Schilling, M. A. (2012). Strategic Management of Technological Innovation (4th Edition). McGraw-Hill/Irwin.
 - Burgelman, R. A., Christensen, C. M., & Wheelwright, S. C. (2008). Strategic management of technology and innovation. McGraw-Hill/Irwin.
 - Betz, F. (2003). Managing technological innovation: competitive advantage from change. John Wiley & Sons.
+
+## Assessment
+
+- Group project(Report, Presentation): 15%; Individual project: 40% (Report, Presentation); In-class activities: 15%, Discussions: 30%
+- Attendance policy: A student who is absent more than three times without prior written permission will fail this class automatically
