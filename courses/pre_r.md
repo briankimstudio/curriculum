@@ -1,14 +1,24 @@
 # Introduction to R
 
-### Course Description
+## Course Description
 
-### Learning Objectives
+## Learning Objectives
 
 - Understand basic concept of 
 - Learn 
 - Practice
 
+## Modules 
+
+### Module 1
+
+### Module 2
+
+### Module 3
+
 ## Projects
+
+- Team project(TBA)
 
 ## Textbooks & References
 

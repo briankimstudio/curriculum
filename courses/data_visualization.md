@@ -10,7 +10,17 @@ This course teach how to use data visualization technique to discover underlying
 - Learn how to prepare data for visualization
 - Practice in Python and R
 
+## Modules 
+
+### Module 1
+
+### Module 2
+
+### Module 3
+
 ## Projects
+
+- Team project(TBA)
 
 ![keyword](/img/keyword-country.png)
 
