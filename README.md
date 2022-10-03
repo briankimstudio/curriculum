@@ -25,6 +25,6 @@ This is a list of courses offered by Dr. Brian Kim.
 - [Statistical analysis in R](/courses/sa_r.md)
 - [Data Visualization](/courses/data_visualization.md)
 - [Big Data Analytics](/courses/big_data_analytics.md)
-- [IoT:Theory and Practice](/courses/iot.md)
+- [IoT: Theory and Practice](/courses/iot.md)
 
 Most of undergraduate courses come with hands-on lab session where students can aqcuire practical experience by applying concepts and theorys to the real problem solving situation. The goal of hands-on lab is to get students prepared to deal with real tasks with confidence in workplace after completing these courses.

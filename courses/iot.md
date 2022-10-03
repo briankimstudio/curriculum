@@ -1,4 +1,4 @@
-# IoT:Theory and Practice
+# IoT: Theory and Practice
 
 ### Course Description
 
