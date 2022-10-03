@@ -2,13 +2,13 @@
 
 ## Course Description
 
-This course is prepared as a graduate level to provide overview of technology management along with important theories and how they are applied in real management studies.
+This course is prepared for graduate students to provide overview of technology management along with important theories and demonsstrate how they are applied in real siturations.
 
 ## Learning Objectives
 
 - Understand basic concept of technology management
 - Learn frequently used theories
-- Get used to the theoreis by applying them to management problem.
+- Recognize usage of technology management theories by analyzing research articles
 
 ## Modules
 
@@ -32,7 +32,7 @@ This course is prepared as a graduate level to provide overview of technology ma
 
 ## Projects
 
-- Presentation
+- Group project
 
 ## Textbooks & References
 
@@ -43,4 +43,4 @@ This course is prepared as a graduate level to provide overview of technology ma
 ## Assessment
 
 - Group project(Report, Presentation): 15%; Individual project: 40% (Report, Presentation); In-class activities: 15%, Discussions: 30%
-- Attendance policy: A student who is absent more than three times without prior written permission will fail this class automatically
+

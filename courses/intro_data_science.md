@@ -38,6 +38,8 @@ This course emphasizes identifying numerous business challenges in digital era. 
 
 ## Projects
 
+- Group project
+
 ## Textbooks & References
 
 - Kelleher, J. D., & Tierney, B. (2018). Data science. The MIT Press
@@ -45,7 +47,6 @@ This course emphasizes identifying numerous business challenges in digital era. 
 ## Assessment
 
 - Group project(Report, Presentation): 15%; Individual project: 40% (Report, Presentation); In-class activities: 15%, Discussions: 30%
-- Attendance policy: A student who is absent more than three times without prior written permission will fail this class automatically
 
 ### Programming Tools
 
