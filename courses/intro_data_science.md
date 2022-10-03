@@ -16,16 +16,14 @@ This course emphasizes identifying numerous business challenges in digital era. 
 
 ## Prerequisites
 
-Intermediate level English writing skills
-Self-testing material: NTU Academic Writing Education Center
-Basic understanding of business model
-Self-testing material: What is a Business Model?
+## Modules
 
-## Schedules
-
+### Module 1
 - Introduction
 - What is data science?
 - What are data sets?
+
+### Module 2
 - Machine learning
 - Supervised vs unsupervised learning
 - Bias in data science
@@ -33,6 +31,9 @@ Self-testing material: What is a Business Model?
 - Anomaly detection
 - Identifying data association
 - Predicting cost using regression
+
+### Module 3
+- Interpretation
 - Visualization
 
 ## Projects

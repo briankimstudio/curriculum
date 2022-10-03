@@ -34,7 +34,6 @@ This course is prepared as a graduate level to provide overview of technology ma
 
 - Presentation
 
-
 ## Textbooks & References
 
 - Schilling, M. A. (2012). Strategic Management of Technological Innovation (4th Edition). McGraw-Hill/Irwin.
