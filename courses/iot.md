@@ -23,8 +23,9 @@
 
 ### Programming Tools
 
-- Arduino IDE
-- ESP8266
-- ESP32
-- IFTTT
-- Adafruit MQTT broker
+- [Node.js](https://nodejs.org/en/)
+- [Arduino IDE](https://www.arduino.cc/en/software)
+- [ESP8266](https://www.espressif.com/en/products/socs/esp8266)
+- [ESP32](https://www.espressif.com/en/products/socs/esp32)
+- [IFTTT](https://ifttt.com/)
+- [Adafruit MQTT broker](https://io.adafruit.com/api/docs/mqtt.html#adafruit-io-mqtt-api)

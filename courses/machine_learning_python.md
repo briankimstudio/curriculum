@@ -19,14 +19,12 @@ This is an introductory machine learning course designed for undergraduate stude
 
 ### Projects
 
-TBA
-
 ### References
 
 - [MLT(Machine Learning Tutorial)](https://github.com/briankimstudio/ML_Tutorial)
 ### Programming Tools
 - Visual Studio Code
 - Anaconda
-- sckit-learn
-- PyTorch
-- Tensorflow/Keras
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [PyTorch](https://pytorch.org/)
+- [Tensorflow](https://www.tensorflow.org/)
