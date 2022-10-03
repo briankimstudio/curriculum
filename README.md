@@ -19,6 +19,7 @@ This is a list of courses offered by Dr. Brian Kim.
 
 ### Intermediate/Advanced courses
 
+- [Introduction to Data Science](/courses/intro_data_science.md)
 - [Machine Learning with Python](/courses/machine_learning_python.md)
 - [Data Analysis in Social Science](/courses/da_ss.md)
 - [Statistical analysis in R](/courses/sa_r.md)
