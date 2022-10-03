@@ -1,4 +1,4 @@
-# Dr. Kim's curriculum
+# Dr. Brian Kim's curriculum
 
 >Under construction!
 
@@ -15,3 +15,8 @@ This is a list of courses offered by Dr. Brian Kim.
 
 Most of courses come with hands-on lab session where students can aqcuire practical experience by applying concepts and theorys to the real problem solving situation. The goal of hands-on lab is to get students prepared to deal with real tasks with confidence in workplace after completing these courses.
 
+### Preliminary courses
+
+- [Introduction to Python](/courses/pre_python.md)
+- [Introduction to R](/courses/pre_r.md)
+- [Introduciton to JavaScript](/courses/pre_js.md)

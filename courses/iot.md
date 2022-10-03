@@ -9,11 +9,13 @@
 - Learn technological background
 - Practice IoT development with project
 
+### Prerequisites
+
+- [Introduciton to JavaScript](/courses/pre_js.md)
+
 ### Projects
 
-
 ![Project](/img/wemos_MH-Z19B_LINE_NOTIFY.png)
-
 
 ### References
 

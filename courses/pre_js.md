@@ -8,10 +8,6 @@
 - Learn 
 - Practice
 
-### Prerequisites
-
-- [Introduction to R](/courses/pre_r.md)
-
 ### Projects
 
 ### References

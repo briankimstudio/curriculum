@@ -13,6 +13,10 @@ This is an introductory machine learning course designed for undergraduate stude
 - Practice with Python programming language
 - Get used to machine learning development environment
 
+### Prerequisites
+
+- [Introduction to Python](/courses/pre_python.md)
+
 ### Projects
 
 TBA
