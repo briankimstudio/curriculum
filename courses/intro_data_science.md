@@ -18,23 +18,24 @@ This course emphasizes identifying numerous business challenges in digital era. 
 
 ## Modules
 
-### Module 1
+Sample slide is available [here.](https://docs.google.com/presentation/d/1HIu-RP-WA5_UfLtg7G-cbVG7jDUwByQw-qaZOpqJv_0/edit?usp=sharing)
+### Module 1 Fundamentals
 - Introduction
 - What is data science?
-- What are data sets?
+- Where is data set?
+- What tools are available?
 
-### Module 2
+### Module 2 Methodologies
 - Machine learning
 - Supervised vs unsupervised learning
-- Bias in data science
+- Bias and variance
 - Clustering
-- Anomaly detection
-- Identifying data association
-- Predicting cost using regression
 
-### Module 3
+### Module 3 Practices
 - Interpretation
 - Visualization
+- Identifying data association
+- Predicting cost using regression
 
 ## Projects
 
