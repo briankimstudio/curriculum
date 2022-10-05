@@ -16,33 +16,33 @@ This is an introductory machine learning course designed for undergraduate stude
 ## Modules
 
 ### Module 1
-- [Reading raw data](Data_preparation.md#1-reading-raw-data)
-- [Inspecting dimension(rows, columns) and data type](Data_preparation.md#2-inspecting-dimensionnumber-of-rows-number-of-columns-and-data-type)
-- [Inspecting value of the dataset](Data_preparation.md#3-inspecting-value-of-the-dataset)
-- [Visualizing correlation among columns](Data_preparation.md#4-visualizing-correlation-among-columns)
+- [Reading raw data](https://github.com/briankimstudio/ML_Tutorial/blob/main/Data_preparation.md#1-reading-raw-data)
+- [Inspecting dimension(rows, columns) and data type](https://github.com/briankimstudio/ML_Tutorial/blob/main/Data_preparation.md#2-inspecting-dimensionnumber-of-rows-number-of-columns-and-data-type)
+- [Inspecting value of the dataset](https://github.com/briankimstudio/ML_Tutorial/blob/main/Data_preparation.md#3-inspecting-value-of-the-dataset)
+- [Visualizing correlation among columns](https://github.com/briankimstudio/ML_Tutorial/blob/main/Data_preparation.md#4-visualizing-correlation-among-columns)
 
 ### Module 2
 
-- [Regression](Supervised.md#regression)
-    - [Linear regression](Supervised.md#1-linear-regression)
-- [Binary classification](Supervised.md#binary-classification)
-    - [Logistic regression](Supervised.md#2-logistic-regression)
-    - [Support vector machine](Supervised.md#3-support-vector-machine-svm)
-- [Multiclass classification](Supervised.md#multiclass-classification)
-    - [K-nearest neighbors](Supervised.md#4-k-nearest-negihbors-knn)
-    - [Decision tree](Supervised.md#decision-tree)
-    - [Random forests](Supervised.md#5-random-forest)
-    - [Performance comparision of multiclass classification models](Supervised.md#performance-comparison-of-multiclass-classification-models)
+- [Regression](https://github.com/briankimstudio/ML_Tutorial/blob/main/Supervised.md#regression)
+    - [Linear regression](https://github.com/briankimstudio/ML_Tutorial/blob/main/Supervised.md#1-linear-regression)
+- [Binary classification](https://github.com/briankimstudio/ML_Tutorial/blob/main/Supervised.md#binary-classification)
+    - [Logistic regression](https://github.com/briankimstudio/ML_Tutorial/blob/main/Supervised.md#2-logistic-regression)
+    - [Support vector machine](https://github.com/briankimstudio/ML_Tutorial/blob/main/Supervised.md#3-support-vector-machine-svm)
+- [Multiclass classification](https://github.com/briankimstudio/ML_Tutorial/blob/main/Supervised.md#multiclass-classification)
+    - [K-nearest neighbors](https://github.com/briankimstudio/ML_Tutorial/blob/main/Supervised.md#4-k-nearest-negihbors-knn)
+    - [Decision tree](https://github.com/briankimstudio/ML_Tutorial/blob/main/Supervised.md#decision-tree)
+    - [Random forests](https://github.com/briankimstudio/ML_Tutorial/blob/main/Supervised.md#5-random-forest)
+    - [Performance comparision of multiclass classification models](https://github.com/briankimstudio/ML_Tutorial/blob/main/Supervised.md#performance-comparison-of-multiclass-classification-models)
 - Overfitting
     - K fold cross validation
 - Hyperparameter optimization
     - Gridsearch
 
 ### Module 3
-- [Confusion matrix](Evaluation.md#1-confusion-matrix)
+- [Confusion matrix](https://github.com/briankimstudio/ML_Tutorial/blob/main/Evaluation.md#1-confusion-matrix)
 - Accuracy, precision, recall
-- [Receiver Operating Charasteristic(ROC) curve](Evaluation.md#2-receiver-operating-charasteristicroc-curve): Trus positive rate(TPR), False positive rate(FPR)
-- [Area Under the ROC Curve(AUC)](Evaluation.md#3-area-under-the-roc-curveauc)
+- [Receiver Operating Charasteristic(ROC) curve](https://github.com/briankimstudio/ML_Tutorial/blob/main/Evaluation.md#2-receiver-operating-charasteristicroc-curve): Trus positive rate(TPR), False positive rate(FPR)
+- [Area Under the ROC Curve(AUC)](https://github.com/briankimstudio/ML_Tutorial/blob/main/Evaluation.md#3-area-under-the-roc-curveauc)
 
 
 ## Prerequisites
