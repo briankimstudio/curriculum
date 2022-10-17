@@ -6,30 +6,52 @@ This course teach how to use data visualization technique to discover underlying
 
 ## Learning Objectives
 
-- Understand basic concept of data visualization
-- Learn how to prepare data for visualization
-- Practice in Python and R
+1. Understand basic concept of data visualization
+2. Learn how to prepare data for visualization
+3. Grasp latest visualization methodologies 
+4. Practice in Python and R
 
 ## Modules 
 
-### Module 1
+### Module 1 Fundamentals
 
-### Module 2
+  - Introduction
+  - What is data visualization?
+  - Short history of data visualization
+  - Tool for hands-on practice
+    - [Google Colab](https://colab.research.google.com/)
 
-### Module 3
+### Module 2 Methodologies
+
+  - Continuous, Discrete
+  - Missing values, Outliers
+  - Normalization, Standardization
+  - Standard deviation, Quantiles
+  - Corrlations
+  - Graph
+  - Networks
+
+### Module 3 Practices
+  
+  - Line Plots, Scatter Plots
+  - Geographic Data
+  - COVID-19 data
 
 ## Projects
 
-- Team project(TBA)
-
-![keyword](/img/keyword-country.png)
+- Group project
 
 ## References
 
+- Jake VanderPlas (2016). Python Data Science Handbook. O'Reilly Media, Inc
 - [Python Graph Gallery](https://www.python-graph-gallery.com/)
 - [The R Graph Gallery](https://r-graph-gallery.com/index.html)
 
-## Programming Tools
+## Assessment
+
+- Group project (Report, Presentation): 15%; Individual project: 40% (Report, Presentation); In-class activities: 15%, Discussions: 30%
+
+### Tools for Hands-on Practice
 
 ### Python
 
@@ -39,6 +61,14 @@ This course teach how to use data visualization technique to discover underlying
 ### R
 
 - [ggplot2](https://ggplot2.tidyverse.org/)
+
+### Examples
+
+![keyword](/img/keyword-country.png)
+
+This chart visualizes primary research topics conducted by each country in regard to COVID-19.
+
+Kim, T. B., & Ho, C.-T. B. (2021). Visual Data Exploration of Covid-19’s Impacts on Economic Research. International Conference on Information Management 2021, Taipei, Taiwan.
 
 ## Data visualization in history
 
