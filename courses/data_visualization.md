@@ -26,16 +26,15 @@ This course teach how to use data visualization technique to discover underlying
   - Continuous, Discrete
   - Missing values, Outliers
   - Normalization, Standardization
-  - Standard deviation, Quantiles
-  - Corrlations
-  - Graph
-  - Networks
+  - Standard deviation, Quantiles, Corrlations
+  - Word Clouds, Graph, Networks
 
 ### Module 3 Practices
   
-  - Line Plots, Scatter Plots
-  - Geographic Data
-  - COVID-19 data
+  - Line Plots, Scatter Plots, Histograms, Box Plots
+  - Geographic Data, COVID-19 Data
+  - Interactive visualization
+    - [Plotly](https://plotly.com/python/)
 
 ## Projects
 
