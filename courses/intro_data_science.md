@@ -6,10 +6,10 @@ This course emphasizes identifying numerous business challenges in digital era. 
 
 ## Learning Objectives
 
-1.	To identify newly created business challenge in digital era.
-2.	To understand unique advantages of data science.
-3.	To grasp currents trends of data science in business environment.
-4.  To practice concept and skills to real world business problems.
+1.	Identify newly created business challenge in digital era
+2.	Understand unique advantages of data science
+3.	Grasp currents trends of data science in business environment
+4.  Apply concept and skills to real world business problems
 
 ## Prerequisites
 
@@ -60,3 +60,4 @@ Sample slide is available [here.](https://docs.google.com/presentation/d/1HIu-RP
 - [Python](https://www.python.org/)
 - [NumPy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/)
+- [Weka](https://www.cs.waikato.ac.nz/ml/weka/)
