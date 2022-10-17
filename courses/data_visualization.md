@@ -2,14 +2,14 @@
 
 ## Course Description
 
-This course teach how to use data visualization technique to discover underlying information from given data. It includes various types of data preperation process in order to prepare for visualization.
+This course teach how to use data visualization technique to discover underlying insights from available data. It introduces data visualization concepts, theories, and techniques to present crucial information effectively. Also, this course includes various types of data preperation techniques to create accurate and precise results.
 
 ## Learning Objectives
 
 1. Understand basic concept of data visualization
 2. Learn how to prepare data for visualization
 3. Grasp latest visualization methodologies 
-4. Practice in Python and R
+4. Practice visualization pipeline using Python and R
 
 ## Modules 
 
