@@ -2,7 +2,7 @@
 
 ## Course Description
 
-This course applies knowledge and skills learnt from data science course to large scale dataset. It focues on generating business insights for data-driven diciesion making. In general, multiple techniques and tools are required to analyze unstructured big data and synthesize meaningful knowledge for business purpose.
+This course applies knowledge and skills learnt from data science course to large scale dataset. It focues on generating business insights for data-driven diciesion making. In general, multiple techniques and tools are required to analyze unstructured big data and synthesize meaningful knowledge for business purpose. This course offers hands-on experience with these techniques by practicing latest big data analysis tools.
 
 ## Learning Objectives
 
