@@ -18,21 +18,38 @@ This course teach how to use data visualization technique to discover underlying
   - Introduction
   - What is data visualization?
   - Short history of data visualization
-  - Tool for hands-on practice
+  - Cloud-based visualization platform
     - [Google Colab](https://colab.research.google.com/)
 
 ### Module 2 Methodologies
 
-  - Continuous, Discrete
-  - Missing values, Outliers
-  - Normalization, Standardization
-  - Standard deviation, Quantiles, Corrlations
-  - Word Clouds, Graph, Networks
+  - Variables
+    - Continuous
+    - Discrete
+  - Pre-processing
+    - Missing values
+    - Outliers
+    - Normalization
+    - Standardization
+  - Concepts
+    - Standard deviation
+    - Quantiles
+    - Corrlations
+  - Basic Visualization
+    - Histograms
+    - Line plots 
+    - Scatter plots
+    - Box plots
+  - Advanced Visualization
+    - Word clouds
+    - Graph
+    - Networks
+    - Sankey diagram
 
 ### Module 3 Practices
   
-  - Line Plots, Scatter Plots, Histograms, Box Plots
-  - Geographic Data, COVID-19 Data
+  - Geographic data 
+    - COVID-19 data visualization
   - Interactive visualization
     - [Plotly](https://plotly.com/python/)
 
