@@ -58,7 +58,7 @@ This course applies knowledge and skills learnt from data science course to larg
 
 - Group project (Report, Presentation): 15%; Individual project: 40% (Report, Presentation); In-class activities: 15%, Discussions: 30%
 
-### Tools for Hands-on Practice
+## Tools for Hands-on Practice
 
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka/)
 - [VOSviewer - Visualizing scientific landscapes](https://www.vosviewer.com/)

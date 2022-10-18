@@ -50,18 +50,18 @@ This course teach how to use data visualization technique to discover underlying
 
 - Group project (Report, Presentation): 15%; Individual project: 40% (Report, Presentation); In-class activities: 15%, Discussions: 30%
 
-### Tools for Hands-on Practice
+## Tools for Hands-on Practice
 
-### Python
+**Python**
 
 - [matplotlib](https://matplotlib.org/)
 - [seaborn](https://seaborn.pydata.org/)
 
-### R
+**R**
 
 - [ggplot2](https://ggplot2.tidyverse.org/)
 
-### Examples
+## Examples
 
 ![keyword](/img/keyword-country.png)
 
