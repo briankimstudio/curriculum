@@ -25,28 +25,18 @@ A sample slide is available [here.](https://docs.google.com/presentation/d/1HIu-
     }
 </style>
 
-#### Module 1 Fundamentals
 | Week | Description | Lab session |
 | --- | ---| --- |
 |1 | Introduction |
 |2| What is data science?|
 |3| Where is the data set?<br>Structured, Unstructured, Semi-structured<br>Quantitative, Categorical<br>Big Data - Volume, Variety, Velocity|
-|4 | What tools are available?<br>Python, R, Weka, etc.| [Visual Studio Code](https://code.visualstudio.com/), [Anaconda](https://www.anaconda.com/) |
-  
-
-#### Module 2 Methodologies
-| Week | Description | Lab session |
-| --- | ---| --- |
+|4 | What tools are available?<br>Python, R, Weka, etc.| [Visual Studio Code](https://code.visualstudio.com/)<br>[Anaconda](https://www.anaconda.com/) |
 |5| Machine learning | [scikit-learn](https://scikit-learn.org/stable/) |
 |6| Supervised vs unsupervised learning|
 |7| Bias and variance|
-|8| Mid-term project presentation/exams|
+|8| Mid-term project presentation/exams| 
 |9| Clustering|
 |10| Classification|
-
-#### Module 3 Practices
-| Week | Description | Lab session |
-| --- | ---| --- |
 |11| Visualization| [matplotlib](https://matplotlib.org/)<br>[seaborn](https://seaborn.pydata.org/) |
 |13| Identifying data association| 
 |14| Predicting house price using regression|
