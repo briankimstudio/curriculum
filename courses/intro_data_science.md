@@ -19,19 +19,13 @@ A sample slide is available [here.](https://docs.google.com/presentation/d/1HIu-
 
 ## Weekly schedule
 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
 | Week | Description | Lab session |
-| --- | ---| --- |
+|:---:| ---| --- |
 |1 | Introduction |
 |2| What is data science?|
-|3| Where is the data set?<br>Structured, Unstructured, Semi-structured<br>Quantitative, Categorical<br>Big Data - Volume, Variety, Velocity|
+|3| Where is the data set?<br>Structure - Structured, Unstructured, Semi-structured<br>Type - Quantitative, Categorical<br>Big Data - Volume, Variety, Velocity|
 |4 | What tools are available?<br>Python, R, Weka, etc.| [Visual Studio Code](https://code.visualstudio.com/)<br>[Anaconda](https://www.anaconda.com/) |
-|5| Machine learning | [scikit-learn](https://scikit-learn.org/stable/) |
+|5| Machine learning<br>Basic steps:<br>-Collecting<br>-Cleaning<br>-Preprocessing<br>-Modeling<br>-Visualization | [scikit-learn](https://scikit-learn.org/stable/) |
 |6| Supervised vs unsupervised learning|
 |7| Bias and variance|
 |8| Mid-term project presentation/exams| 
