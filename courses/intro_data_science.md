@@ -19,19 +19,25 @@ A sample slide is available [here.](https://docs.google.com/presentation/d/1HIu-
 
 ## Weekly schedule
 
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 #### Module 1 Fundamentals
-| Week | Description |
-| --- | ---|
+| Week | Description | Lab session |
+| --- | ---| --- |
 |1 | Introduction |
 |2| What is data science?|
 |3| Where is the data set?<br>Structured, Unstructured, Semi-structured<br>Quantitative, Categorical<br>Big Data - Volume, Variety, Velocity|
-|4 | What tools are available?<br>Python, R, Weka, etc.|
+|4 | What tools are available?<br>Python, R, Weka, etc.| [Visual Studio Code](https://code.visualstudio.com/), [Anaconda](https://www.anaconda.com/) |
   
 
 #### Module 2 Methodologies
-| Week | Description |
-| --- | ---|
-|5| Machine learning |
+| Week | Description | Lab session |
+| --- | ---| --- |
+|5| Machine learning | [scikit-learn](https://scikit-learn.org/stable/) |
 |6| Supervised vs unsupervised learning|
 |7| Bias and variance|
 |8| Mid-term project presentation/exams|
@@ -39,12 +45,12 @@ A sample slide is available [here.](https://docs.google.com/presentation/d/1HIu-
 |10| Classification|
 
 #### Module 3 Practices
-| Week | Description |
-| --- | ---|
-|11| Visualization|
-|13| Identifying data association|
-|14| Predicting cost using regression|
-|15| Evaluting model's performance|
+| Week | Description | Lab session |
+| --- | ---| --- |
+|11| Visualization| [matplotlib](https://matplotlib.org/)<br>[seaborn](https://seaborn.pydata.org/) |
+|13| Identifying data association| 
+|14| Predicting house price using regression|
+|15| Evaluting model's performance<br>[Confusion matrix](https://github.com/briankimstudio/ML_Tutorial/blob/main/Evaluation.md#1-confusion-matrix)<br>Accuracy, precision, recall<br>[Receiver Operating Charasteristic(ROC) curve](https://github.com/briankimstudio/ML_Tutorial/blob/main/Evaluation.md#2-receiver-operating-charasteristicroc-curve): True positive rate(TPR), False positive rate(FPR)<br>[Area Under the ROC Curve(AUC)](https://github.com/briankimstudio/ML_Tutorial/blob/main/Evaluation.md#3-area-under-the-roc-curveauc)| 
 |16| Final-term project presentation/exams|
 
 ## Projects
@@ -59,7 +65,7 @@ A sample slide is available [here.](https://docs.google.com/presentation/d/1HIu-
 
 - Group project (Report, Presentation): 15%; Individual project: 40% (Report, Presentation); In-class activities: 15%, Discussions: 30%
 
-## Tools for Hands-on Practice
+## Tools for lab session
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Anaconda](https://www.anaconda.com/)
@@ -67,3 +73,8 @@ A sample slide is available [here.](https://docs.google.com/presentation/d/1HIu-
 - [NumPy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka/)
+- [matplotlib](https://matplotlib.org/)
+- [seaborn](https://seaborn.pydata.org/)
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [PyTorch](https://pytorch.org/)
+- [Tensorflow](https://www.tensorflow.org/)
