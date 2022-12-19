@@ -19,31 +19,33 @@ A sample slide is available [here.](https://docs.google.com/presentation/d/1HIu-
 
 ## Weekly schedule
 
-### Module 1 Fundamentals
-1. Introduction
-2. What is data science?
-3. Where is the data set?
-  - Structured, Unstructured, Semi-structured
-  - Quantitative, Categorical
-  - Big Data
-    - Volume, Variety, Velocity
-4. What tools are available?
-  - Python, R, Weka, etc.
+#### Module 1 Fundamentals
+| Week | Description |
+| --- | ---|
+|1 | Introduction |
+|2| What is data science?|
+|3| Where is the data set?<br>Structured, Unstructured, Semi-structured<br>Quantitative, Categorical<br>Big Data - Volume, Variety, Velocity|
+|4 | What tools are available?<br>Python, R, Weka, etc.|
+  
 
-### Module 2 Methodologies
-5. Machine learning
-6. Supervised vs unsupervised learning
-7. Bias and variance
-8. Mid-term project presentation/exams
-9. Clustering
-10. Classification
+#### Module 2 Methodologies
+| Week | Description |
+| --- | ---|
+|5| Machine learning |
+|6| Supervised vs unsupervised learning|
+|7| Bias and variance|
+|8| Mid-term project presentation/exams|
+|9| Clustering|
+|10| Classification|
 
-### Module 3 Practices
-11. Interpretation
-12. Visualization
-13. Identifying data association
-14. Predicting cost using regression
-16. Final-term project presentation/exams
+#### Module 3 Practices
+| Week | Description |
+| --- | ---|
+|11| Visualization|
+|13| Identifying data association|
+|14| Predicting cost using regression|
+|15| Evaluting model's performance|
+|16| Final-term project presentation/exams|
 
 ## Projects
 
