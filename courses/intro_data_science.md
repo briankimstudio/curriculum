@@ -1,45 +1,49 @@
 # Introduction to Data Science
 
-## Course Description
+## Course description
 
-This course emphasizes identifying numerous business challenges in digital era. In particular, as the volume of data generated from various entities increase, complexity of business applications is exponentially increasing as well. Therefore, it is crucial to address how to effectively utilize the concept of data science to effectively solve these newly created challenges in business applications.
+This course emphasizes identifying numerous business challenges in a digital era. In particular, as the volume of data generated from various entities increases, business applications's complexity is exponentially increasing as well. Therefore, it is crucial to address how to effectively utilize the concept of data science to effectively solve these newly created challenges in business applications.
 
-## Learning Objectives
+## Learning objectives
 
-1.	Identify newly created business challenge in digital era
-2.	Understand unique advantages of data science
-3.	Grasp currents trends of data science in business environment
-4.  Apply concept and skills to real world business problems
+1.	Identify newly created business challenges in a digital era
+2.	Understand the unique advantages of data science
+3.	Grasp currents trends of data science in a business environment
+4.  Apply concepts and skills to real-world business problems
 
 ## Prerequisites
 
 ## Modules
 
-Sample slide is available [here.](https://docs.google.com/presentation/d/1HIu-RP-WA5_UfLtg7G-cbVG7jDUwByQw-qaZOpqJv_0/edit?usp=sharing)
+A sample slide is available [here.](https://docs.google.com/presentation/d/1HIu-RP-WA5_UfLtg7G-cbVG7jDUwByQw-qaZOpqJv_0/edit?usp=sharing)
+
+## Weekly schedule
 
 ### Module 1 Fundamentals
-- Introduction
-- What is data science?
-- Where is data set?
+1. Introduction
+2. What is data science?
+3. Where is the data set?
   - Structured, Unstructured, Semi-structured
   - Quantitative, Categorical
   - Big Data
     - Volume, Variety, Velocity
-- What tools are available?
+4. What tools are available?
   - Python, R, Weka, etc.
 
 ### Module 2 Methodologies
-- Machine learning
-- Supervised vs unsupervised learning
-- Bias and variance
-- Clustering
-- Classification
+5. Machine learning
+6. Supervised vs unsupervised learning
+7. Bias and variance
+8. Mid-term project presentation/exams
+9. Clustering
+10. Classification
 
 ### Module 3 Practices
-- Interpretation
-- Visualization
-- Identifying data association
-- Predicting cost using regression
+11. Interpretation
+12. Visualization
+13. Identifying data association
+14. Predicting cost using regression
+16. Final-term project presentation/exams
 
 ## Projects
 
