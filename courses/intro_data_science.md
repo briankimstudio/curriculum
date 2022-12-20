@@ -13,6 +13,8 @@ This course emphasizes identifying numerous business challenges in a digital era
 
 ## Prerequisites
 
+- Basic understanding of statistical analysis
+
 ## Modules
 
 This course consists of 3 modules: Funedmentals, methodologies, and practices.
