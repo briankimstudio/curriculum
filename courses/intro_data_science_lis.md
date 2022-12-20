@@ -45,7 +45,7 @@ A sample lecture slide is available [here.](https://docs.google.com/presentation
 |10| Classification - Chapter 5<br>-K nearest neighbors<br>-Decision tree<br>-Random forests|
 |11| Visualization<br>-Histograms<br>-Scatter plots<br>-Box plots| [matplotlib](https://matplotlib.org/)<br>[seaborn](https://seaborn.pydata.org/) |
 |13| Data association identification<br>-Networks<br>-Sankey diagram| 
-|14| House price prediction using regression<br>*Reading list:<br>House Prices - Advanced Regression Techniques in Kaggle https://www.kaggle.com/c/house-prices-advanced-regression-techniques|
+|14| House price prediction using regression<br>*Reading list:<br>Anna Montoya, D. (2016). House Prices—Advanced Regression Techniques. Kaggle. https://kaggle.com/competitions/house-prices-advanced-regression-techniques|
 |15| Evaluting model's performance<br>[Confusion matrix](https://github.com/briankimstudio/ML_Tutorial/blob/main/Evaluation.md#1-confusion-matrix)<br>Accuracy, precision, recall<br>[Receiver Operating Charasteristic(ROC) curve](https://github.com/briankimstudio/ML_Tutorial/blob/main/Evaluation.md#2-receiver-operating-charasteristicroc-curve): True positive rate(TPR), False positive rate(FPR)<br>[Area Under the ROC Curve(AUC)](https://github.com/briankimstudio/ML_Tutorial/blob/main/Evaluation.md#3-area-under-the-roc-curveauc)<br>*Reading list:<br>[Fawcett, T. (2006). An introduction to ROC analysis. Pattern Recognition Letters, 27(8), 861–874.](https://doi.org/10.1016/j.patrec.2005.10.010)| 
 |16| Final-term project presentation/exams|
 
@@ -54,10 +54,13 @@ A sample lecture slide is available [here.](https://docs.google.com/presentation
 - Group project
 
 ## Textbooks & References
+
 ### Textbook
 - Kelleher, J. D., & Tierney, B. (2018). Data science. The MIT Press
+
 ### References
 - McKinney, W. (2018). Python for data analysis: Data wrangling with pandas, NumPy, and IPython (Second edition). O’Reilly Media, Inc.
+- Bruce, P. C., & Bruce, A. (2017). Practical statistics for data scientists: 50 essential concepts (First edition). O’Reilly.
 
 ## Assessment
 
