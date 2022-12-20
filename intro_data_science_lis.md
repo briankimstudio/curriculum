@@ -2,15 +2,15 @@
 
 ## Course description
 
-This course emphasizes identifying numerous challenges for both academics and practitioners in a digital era. In particular, as the volume of data generated from various entities increases, data processing applications' complexity increases exponentially. Therefore, it is crucial to address how to effectively utilize the concept of data science to solve these newly created challenges in variety of business applications.
+This course emphasizes identifying numerous challenges in analyzing data for both academics and practitioners. In a digital era, researchers and practitioners face numerous challenges in analyzing data.  In particular, the volume, variety, and velocity of data have already exceeded the capacity of traditional data analytics methods. Therefore, it is imperative to find ways to leverage data science to solve these newly created challenges so that data-driven decisions can be made more effectively.
 
 ## Learning objectives
 
-1.	To identify newly created business challenges in a digital era
-2.	Understand the unique advantages of data science
-3.	Grasp currents trends of data science in a business environment
-4. Apply concepts and skills to real-world business problems
-5. 
+1. To identify newly created challenges in in analyzing data
+2. To understand the unique advantages and in-depth knowledge of data science
+3. To grasp currents trends in data science and examine them in the context of machine learning
+4. To cultivate insights to formulate novel research questions
+5. To provide students with real-world exposure and then apply concepts and skills to real-world problems.
 
 ## Prerequisites
 
