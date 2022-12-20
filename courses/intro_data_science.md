@@ -2,7 +2,7 @@
 
 ## Course description
 
-This course emphasizes identifying numerous business challenges in a digital era. In particular, as the volume of data generated from various entities increases, business applications's complexity is exponentially increasing as well. Therefore, it is crucial to address how to effectively utilize the concept of data science to effectively solve these newly created challenges in business applications.
+This course emphasizes identifying numerous business challenges in a digital era. In particular, as the volume of data generated from various entities increases, business applications's complexity is exponentially increasing as well. Therefore, it is crucial to address how to effectively utilize the concept of data science to solve these newly created challenges in business applications.
 
 ## Learning objectives
 
@@ -22,7 +22,7 @@ This course consists of 3 modules: Funedmentals, methodologies, and practices.
 2. Methodologies: Week 5 ~ 10
    - Learn various techinques and usages
 3. Practices: Week 11 ~ 16
-   - Apply concepts and techniques to real-world problem
+   - Apply concepts and techniques to real-world problems
 
 A sample lecture slide is available [here.](https://docs.google.com/presentation/d/1HIu-RP-WA5_UfLtg7G-cbVG7jDUwByQw-qaZOpqJv_0/edit?usp=sharing)
 
@@ -43,7 +43,7 @@ A sample lecture slide is available [here.](https://docs.google.com/presentation
 |11| Visualization| [matplotlib](https://matplotlib.org/)<br>[seaborn](https://seaborn.pydata.org/) |
 |13| Identifying data association| 
 |14| Predicting house price using regression|
-|15| Evaluting model's performance<br>[Confusion matrix](https://github.com/briankimstudio/ML_Tutorial/blob/main/Evaluation.md#1-confusion-matrix)<br>Accuracy, precision, recall<br>[Receiver Operating Charasteristic(ROC) curve](https://github.com/briankimstudio/ML_Tutorial/blob/main/Evaluation.md#2-receiver-operating-charasteristicroc-curve): True positive rate(TPR), False positive rate(FPR)<br>[Area Under the ROC Curve(AUC)](https://github.com/briankimstudio/ML_Tutorial/blob/main/Evaluation.md#3-area-under-the-roc-curveauc)<br>*Reading list:<br>Fawcett, T. (2006). An introduction to ROC analysis. Pattern Recognition Letters, 27(8), 861–874.| 
+|15| Evaluting model's performance<br>[Confusion matrix](https://github.com/briankimstudio/ML_Tutorial/blob/main/Evaluation.md#1-confusion-matrix)<br>Accuracy, precision, recall<br>[Receiver Operating Charasteristic(ROC) curve](https://github.com/briankimstudio/ML_Tutorial/blob/main/Evaluation.md#2-receiver-operating-charasteristicroc-curve): True positive rate(TPR), False positive rate(FPR)<br>[Area Under the ROC Curve(AUC)](https://github.com/briankimstudio/ML_Tutorial/blob/main/Evaluation.md#3-area-under-the-roc-curveauc)<br>*Reading list:<br>[Fawcett, T. (2006). An introduction to ROC analysis. Pattern Recognition Letters, 27(8), 861–874.](https://doi.org/10.1016/j.patrec.2005.10.010)| 
 |16| Final-term project presentation/exams|
 
 ## Projects
