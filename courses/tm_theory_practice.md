@@ -56,7 +56,10 @@ This course is prepared for graduate students to provide overview of technology 
 
 ## Textbooks & References
 
+### Textbook
 - Schilling, M. A. (2012). Strategic Management of Technological Innovation (4th Edition). McGraw-Hill/Irwin.
+
+### References
 - Burgelman, R. A., Christensen, C. M., & Wheelwright, S. C. (2008). Strategic management of technology and innovation. McGraw-Hill/Irwin.
 - Betz, F. (2003). Managing technological innovation: competitive advantage from change. John Wiley & Sons.
 
