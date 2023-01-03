@@ -2,7 +2,7 @@
 
 ## Course Description
 
-This course is prepared for graduate students to provide overview of technology management along with important theories and demonsstrate how they are applied in real siturations.
+This course is prepared for graduate students to provide an overview of technology management along with important theories and demonstrate how they are applied in real situations.
 
 ## Learning Objectives
 
@@ -27,19 +27,19 @@ This course is prepared for graduate students to provide overview of technology 
 
 - Technology User studies
 - Technology Acceptance Model(TAM)
-- The Unified theory of Acceptance and Use of Technology(UTAUT)
-- Dissufion of Innovation
+- The Unified Theory of Acceptance and Use of Technology(UTAUT)
+- Diffusion of Innovation
 
 ## Weekly schedule
 
 | Week | Description | 
 |:---:| ---| 
 |1 | Introduction<br>-Goals and expected outcomes<br>-Prerequisites<br>-Administrative details<br>*Reading list:<br>University regulations| 
-|2| Theory of resource-based view for innovation - Chapter 6<br>*Readling list:<br>Barney, J. (1991). Firm resources and sustained competitive advantage. Journal of Management, 17(1), 99–120. https://doi.org/10.1177/014920639101700108 | 
+|2| Theory of resource-based view for innovation - Chapter 6<br>*Reading list:<br>Barney, J. (1991). Firm resources and sustained competitive advantage. Journal of Management, 17(1), 99–120. https://doi.org/10.1177/014920639101700108 | 
 |3| Theory of dynamic capability for innovation - Chapter 6<br>*Reading list:<br>Teece, D. J., Pisano, G., & Shuen, A. (1997). Dynamic capabilities and strategic management. Strategic Management Journal, 18(7), 509–533. | 
 |4 | Real options analysis - Chapter 7<br>*Reading list:<br>Smit, H. T. J., & Trigeorgis, L. (2006). Strategic planning: Valuing and managing portfolios of real options. R&D Management, 36(4). | 
 |5| Platform theory and industrial ecosystems - Chapter 4<br>*Reading list:<br>Gawer, A., & Cusumano, M. A. (2014). Industry platforms and ecosystem innovation. Journal of Product Innovation Management, 31(3), 417–433. https://doi.org/10.1111/jpim.12105| 
-|6| Technology acceptance model<br>*Reading list:<br>Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319–350. https://doi.org/10.2307/249008| 
+|6| Technology acceptance model<br>The unified theory of acceptance and use of technology<br>*Reading list:<br>Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319–350. https://doi.org/10.2307/249008| 
 |7| Diffusion of innovation(DOI) - Chapter 3<br>*Reading list:<br>Rogers, E. M. (1962). Diffusion of innovations. Free Press.| 
 |8| Mid-term project presentation/exams|
 |9| Use and gratification<br>*Reading list:<br>Katz, E., Blumler, J. G., & Gurevitch, M. (1973). Uses and gratifications research. The Public Opinion Quarterly, 37(4), 509–523.<br>Stafford, T. F., Stafford, M. R., & Schkade, L. L. (2004). Determining uses and gratifications for the Internet. Decision Sciences, 35(2), 259–288.| 
