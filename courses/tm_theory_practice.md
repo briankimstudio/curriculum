@@ -42,8 +42,7 @@ This course is prepared for graduate students to provide overview of technology 
 |6| Technology acceptance model<br>*Reading list:<br>Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319–350. https://doi.org/10.2307/249008| |
 |7| Diffusion of innovation(DOI) - Chapter 3<br>*Reading list:<br>Rogers, E. M. (1962). Diffusion of innovations. Free Press.| |
 |8| Mid-term project presentation/exams| |
-|9| Use and gratification<br>*Reading list:<br>Katz, E., Blumler, J. G., & Gurevitch, M. (1973). Uses and gratifications research. The Public Opinion Quarterly, 37(4), 509–523.<br>Stafford, T. F., Stafford, M. R., & Schkade, L. L. (2004). Determining uses and gratifications for the Internet. Decision Sciences, 35(2), 259–288.
-| |
+|9| Use and gratification<br>*Reading list:<br>Katz, E., Blumler, J. G., & Gurevitch, M. (1973). Uses and gratifications research. The Public Opinion Quarterly, 37(4), 509–523.<br>Stafford, T. F., Stafford, M. R., & Schkade, L. L. (2004). Determining uses and gratifications for the Internet. Decision Sciences, 35(2), 259–288.| |
 |10| Dominant design - Chapter 4<br>*Reading list:<br>Suárez, F. F., & Utterback, J. M. (1995). Dominant designs and the survival of firms. Strategic Management Journal, 16(6), 415–430. https://doi.org/10.1002/smj.4250160602| |
 |11| Open innovation - Chapter 8<br>*Reading list:<br>Chesbrough, H. W. (2003). Open Innovation: The new imperative for creating and profiting from technology. Harvard Business Press.| |
 |13| Disruptive innovation - Chapter 3<br>*Reading list:<br>Christensen, C. M. (1997). The innovator’s dilemma: When new technologies cause great firms to fail. Harvard Business School Press.| |
