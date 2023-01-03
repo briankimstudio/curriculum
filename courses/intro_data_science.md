@@ -10,7 +10,6 @@ This course emphasizes identifying numerous challenges for both academics and pr
 2.	Understand the unique advantages of data science
 3.	Grasp currents trends of data science in a business environment
 4. Apply concepts and skills to real-world business problems
-5. 
 
 ## Prerequisites
 
