@@ -2,33 +2,23 @@
 
 ## Course Description
 
-This course is prepared for graduate students to provide an overview of technology management along with important theories and demonstrate how they are applied in real situations.
+This course is prepared for graduate students to provide an overview of technology management along with important theories and demonstrate how they are applied in real situations. It consists of three parts. The first part covers why technology management is important to innovation. Then, various theories for innovation and technology management will be introduced. Finally, we will cover how these theories are applied to real-world business situations by analyzing case studies and research articles.
 
 ## Learning Objectives
 
-- Understand the basic concept of technology management
-- Learn frequently used theories
-- Recognize the usage of technology management theories by analyzing research articles
+- To understand the basic concept of technology management
+- To learn frequently used theories
+- To recognize the usage of technology management theories by analyzing research articles
 
 ## Modules
 
-### Module 1
-
-- Overview of technology management
-
-### Module 2
-
-- Resource based-view for innovation
-- Theory of dynamic capabilities for innovation
-- Real options analysis for innovations
-- Platform theory and industrial ecosystems
-
-### Module 3
-
-- Technology User studies
-- Technology Acceptance Model(TAM)
-- The Unified Theory of Acceptance and Use of Technology(UTAUT)
-- Diffusion of Innovation
+This course consists of 3 modules: Fundamentals, methodologies, and practices.
+1. Fundamentals: Week 1 ~ 4
+   - Focuses on the concepts and core elements of technology management
+2. Methodologies: Week 5 ~ 10
+   - Learn various theories and practices
+3. Practices: Week 11 ~ 16
+   - Apply theories and practices to real-world business situations
 
 ## Weekly schedule
 
@@ -67,3 +57,4 @@ This course is prepared for graduate students to provide an overview of technolo
 
 - Group project(Report, Presentation): 15%; Individual project: 40% (Report, Presentation); In-class activities: 15%, Discussions: 30%
 
+f
