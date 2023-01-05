@@ -2,7 +2,7 @@
 
 ## Course Description
 
-This course is prepared for graduate students to provide an overview of technology management along with important theories and demonstrate how they are applied in real situations. It consists of three parts. The first part covers why technology management is important to innovation. Then, various theories for innovation and technology management will be introduced. Finally, we will cover how these theories are applied to real-world business situations by analyzing case studies and research articles.
+This course is prepared for senior or graduate students to provide an overview of technology management along with important theories and demonstrate how they are applied in real situations. It consists of three parts. The first part covers why technology management is important to innovation. Then, various theories for innovation and technology management will be introduced. Finally, we will cover how these theories are applied to real-world business situations by analyzing case studies and research articles.
 
 ## Learning Objectives
 
@@ -56,5 +56,3 @@ This course consists of 3 modules: Fundamentals, methodologies, and practices.
 ## Assessment
 
 - Group project(Report, Presentation): 15%; Individual project: 40% (Report, Presentation); In-class activities: 15%, Discussions: 30%
-
-f
