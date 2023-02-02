@@ -29,24 +29,24 @@ This course consists of 3 modules: Fundamentals, methodologies, and practices.
 
 ## Weekly schedule
 
-### 1 Introduction to Operations Management
-### 2 Competitiveness, Strategy, and Productivity 
-### 3 Forecasting 
-### 4 Product and Service Design 
-### 5 Strategic Capacity Planning for Products and Services
-### 6 Process Selection and Facility Layout 
-### 7 Work Design and Measurement 
-### 8 Location Planning and Analysis 
-### 9 Midterm exam week
-### 10 Management of Quality 
-### 11 Quality Control 418
-### 12 Aggregate Planning and Master Scheduling 
-### 13 Inventory Management 
-### 14 MRP and ERP 
-### 15 JIT and Lean Operations 
-### 16 Supply Chain Management 
-### 17 Scheduling 
-### 18 Final exam week
+1. Introduction to Operations Management
+2. Competitiveness, Strategy, and Productivity 
+3. Forecasting 
+4. Product and Service Design 
+5. Strategic Capacity Planning for Products and Services
+6. Process Selection and Facility Layout 
+7. Work Design and Measurement 
+8. Location Planning and Analysis 
+9. __MIDTERM EXAM WEEK__
+10. Management of Quality 
+11. Quality Control 418
+12. Aggregate Planning and Master Scheduling 
+13. Inventory Management 
+14. MRP and ERP 
+15. JIT and Lean Operations 
+16. Supply Chain Management 
+17. Scheduling 
+18. __FINAL EXAM WEEK__
 
 ## Projects
 
