@@ -12,21 +12,6 @@ Production and operations management is concerned with the design, planning and 
 3. To help students gain an understanding of what operations management involves, how it relates to other functional areas in an organization.
 4. To undersatnd the types of problems that are faced by operations managers, and common decision-making approaches.
 
-## Prerequisites
-
-- N/A
-
-## Modules
-
-This course consists of 3 modules: Fundamentals, methodologies, and practices.
-
-1. Fundamentals: Week 1 ~ 4
-   - Focuses on the concepts and core elements of the data science
-2. Methodologies: Week 5 ~ 10
-   - Learn various techniques and usages
-3. Practices: Week 11 ~ 16
-   - Apply concepts and techniques to real-world problems
-
 ## Weekly schedule
 
 1. Introduction to Operations Management
