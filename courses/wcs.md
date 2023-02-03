@@ -6,60 +6,71 @@ What is it like to live in Western countries like the US, Europe, and Canada? Ho
 
 ## Learning objectives
 
-What is it like to live in Western countries like the US, Europe, and Canada? How are people from the East and West different? The same? In a global economy, we work with, learn from, and are interconnected other cultures and regions. This course will use an ecological framework to explore issues related to the individual (ways we think, attitudes, expectations), interpersonal (families, friendships, networks), organizations (e.g. schools, health care), community (e.g. social media, social justice and equity), and public policy. We will draw on theory, research and literature from multiple disciplines. We will focus culture and society in the U.S., but will also learn about other Western countries. This course is designed for students who are fluent English speakers, and also welcomes students who are not yet fluent in English. Although the class is taught in English, there will be opportunities for students to work together in other shared languages.
+1. What is it like to live in Western countries like the US, Europe, and Canada? 
+1. How are people from the East and West different? The same? In a global economy, we work with, learn from, and are interconnected other cultures and regions. 
+1. This course will use an ecological framework to explore issues related to the individual (ways we think, attitudes, expectations), interpersonal (families, friendships, networks), organizations (e.g. schools, health care), community (e.g. social media, social justice and equity), and public policy. 
+1. We will draw on theory, research and literature from multiple disciplines. 
+1. We will focus culture and society in the U.S., but will also learn about other Western countries. 
+1. This course is designed for students who are fluent English speakers, and also welcomes students who are not yet fluent in English. Although the class is taught in English, there will be opportunities for students to work together in other shared languages.
 
 ## Weekly schedule
 
-1 Welcome, introduction to the course.
+1. Introduction to the course
+   - Configure groups for project
+   - Slack: primary group messaging tool for class
+   
+2. American values #1: Individualism, Equlity, Informality
+   - Kohls, L. R. (1984). The Values Americans Live By.
+   - Althen, G., Doran, A. R., & Szmania, S. J. (2003). American ways: A guide for foreigners in the United States (2nd ed). Intercultural Press.
 
-2 Maps: Geography and Culture
-Adichie, C. N. (2009). The danger of a single story. TED Talk.
-CGP Grey. (2019). American Empire. YouTube.
-The Economist (2019). How Brexit is changing the EU. YouTube.
-Bensinger, G. (2020). Google redraws the borders on maps depending on who’s looking. The Washington Post.
+3. Break
 
-3 How we think in different ways
-Robson, D. (2017). How east and west think in profoundly different ways. BBC. January, 19.
-Boroditsky, L. (2018). How language shapes the way we think. TED Talk.
+4. American values #2: 
+   - The future, change, and progress
+   - Achievement, Action, Work, and Materialism
+   - Directness and Assertivenss
+   - Time
 
-4 Daily Life
-Anna Rosling Rönnlund (2015). Using photos as data to understand how people live. TEDx Talks
-Explore related Dollar Street (https://www.gapminder.org/). Bring to class, in writing (1 page, typed),
-● How does daily life differ across 2 western countries?
-• How accurate do you think this describes a country you have visited or lived in?
-Optional: Life in a Day 2010 Film. YouTube. (2020 will premiere January 2021)
+5. Presentation: How different is the value system between USA and your country?
+   - Team presentation(5 min) and Q&A(5 min)
 
-5 Elections and Government in the US
-Christina Greer. (2012). Does your vote count? The Electoral College Explained. TEDEd.
+6. What does western education expect from students?
 
-6 Family Life
+   - EO (Director). (2022, November 23). An Associate Dean of Stanford Was A Bottom Student | Paul Kim. https://www.youtube.com/watch?v=dKKo2_rblF4
 
-7 Healthcare
+7. Presentation: What is the goal of education systsem in your country?
+   - Team presentation(5 min) and Q&A(5 min)
 
-8 Mental Health and Well-Being
-● Knewman (May 22, 2019)How Cultural Differences Shape Your Happiness. Greater Good Magazine: Science-Based Insights for a Meaningful Life.
+8. Break
 
-9 Education
+9. Midterm exam week
 
-10 Midterm
+10. How language affect cultural difference
+    - Boroditsky, L. (2001). Does language shape thought?: Mandarin and English speakers’ conceptions of time. Cognitive Psychology, 43(1), 1–22.
+    - TED (Director). (2018, May 2). How language shapes the way we think | Lera Boroditsky. https://www.youtube.com/watch?v=RKK7wGAYP6k
 
-11 Gender Equity
-“Women in politics: 2019” map, created by the Inter-Parliamentary Union (IPU) and UN Women
+11. Presentation: Finding how your language shape your thought
+   - Team presentation(5 min) and Q&A(5 min)
 
-12 Social Justice: Black Lives Matter
+12. Western entrepreneurship: Self-made billionaires vs Heirs
 
-13 Art and Culture
+    - Kaplan, S. N., & Rauh, J. D. (2013). Family, education, and sources of wealth among the richest Americans, 1982–2012. American Economic Review, 103(3), 158–162.
+    - Vanessa Sumo. (2014). Most Billionaires Are Self-Made, Not Heirs. The University of Chicago Booth School of Business. https://www.chicagobooth.edu/review/billionaires-self-made
 
-14 Religions: Christianity, Judaism, and Islam
-John Bellaimey. (2013). The five major world religions. TEDEd.
+13. Presentation: How different types of success affect the society?
+   - Team presentation(5 min) and Q&A(5 min)
 
-15 Winter Celebrations Across the West
-Cultures across the west celebrate a variety of holidays in December and January. Each group will select a holiday to describe, and bring a traditional food or lead/teach us a traditional activity.
+14. Diversity in global organization
+    - Lee, D. S. (2022). Case Study: What Does Diversity Mean in a Global Organization? Harvard Business Review, 100(3), 148–153.
 
-16 Work Culture and approaches to leadership
+15. Presentation: How we can take advantage of diversity for better management?
+   - Team presentation(5 min) and Q&A(5 min)
 
-17 Communicating Across Cultures
-We will role play several scenarios with people from different cultures.
+16. Final presentation
+
+17. Self-study
+
+18. Final exam week
 
 ## Projects
 
@@ -71,4 +82,4 @@ Some required class preparation (readings, videos, etc.) are open source (free).
 
 ## Assessment
 
-- Preparation and Attendance: 20%; Individual project: 40% (Report, Presentation); In-class activities: 15%, Discussions: 30%
+- Preparation and Attendance: 20%; Team project: 50% (Report, Presentation); In-class activities and Discussions: 50%
