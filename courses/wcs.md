@@ -6,12 +6,12 @@ What is it like to live in Western countries like the US, Europe, and Canada? Ho
 
 ## Learning objectives
 
-1. What is it like to live in Western countries like the US, Europe, and Canada? 
-1. How are people from the East and West different? The same? In a global economy, we work with, learn from, and are interconnected other cultures and regions. 
-1. This course will use an ecological framework to explore issues related to the individual (ways we think, attitudes, expectations), interpersonal (families, friendships, networks), organizations (e.g. schools, health care), community (e.g. social media, social justice and equity), and public policy. 
-1. We will draw on theory, research and literature from multiple disciplines. 
-1. We will focus culture and society in the U.S., but will also learn about other Western countries. 
-1. This course is designed for students who are fluent English speakers, and also welcomes students who are not yet fluent in English. Although the class is taught in English, there will be opportunities for students to work together in other shared languages.
+1. To introduce American value systems
+2. To understand goal of western education systems
+3. To analyze how langague affect thought
+4. To compare cultural differentce in entrepreneurship
+5. To understand role of diversity
+6. To practice public speaking and presentation skills
 
 ## Weekly schedule
 
