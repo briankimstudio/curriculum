@@ -2,6 +2,8 @@
 
 >Under construction!
 
+- [Tunghai University](THU.md)
+
 This is a list of courses offered by Dr. Brian Kim.
 
 ## Graduate level
