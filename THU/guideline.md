@@ -28,7 +28,25 @@ Fundemantal attitude to develop these three key capabilities
 - Newer knowledge is created only when we are willing to share knowledge each other.
 - The reward for how much you participate in this process is called 'grade'
 
+### Reference and Citations
 
+- For in-text citations and references, all written deliverables for the course must follow APA style([link](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html)).
+
+- All source materials(magazine article, academic paper,youtbue, etc) should be explicitly cited.
+
+### Official Communications
+
+- Official communication should be exchanged via offical university email account.
+- For group project, all memgers should use Slack([link](https://slack.com/)) to send or share information for class.
+
+### Presentation
+
+- Standard dress code for presentation is business casual.
+- File must be submitted a day before presentation. 
+- All team members should present part of content.
+- Grade for presentation is given per group.
+- For improving presentation skills, consider practicing at local Toastmasters club([link](https://www.toastmasters.org/)).
+   
 
 
 
