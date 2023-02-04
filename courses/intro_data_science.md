@@ -46,7 +46,9 @@ A sample lecture slide is available [here.](https://docs.google.com/presentation
 |13| Data association identification<br>-Networks<br>-Sankey diagram| 
 |14| House price prediction using regression<br>*Reading list:<br>House Prices - Advanced Regression Techniques in Kaggle https://www.kaggle.com/c/house-prices-advanced-regression-techniques|
 |15| Evaluating the model's performance<br>[Confusion matrix](https://github.com/briankimstudio/ML_Tutorial/blob/main/Evaluation.md#1-confusion-matrix)<br>Accuracy, precision, recall<br>[Receiver Operating Characteristic(ROC) curve](https://github.com/briankimstudio/ML_Tutorial/blob/main/Evaluation.md#2-receiver-operating-charasteristicroc-curve): True positive rate(TPR), False positive rate(FPR)<br>[Area Under the ROC Curve(AUC)](https://github.com/briankimstudio/ML_Tutorial/blob/main/Evaluation.md#3-area-under-the-roc-curveauc)<br>*Reading list:<br>[Fawcett, T. (2006). An introduction to ROC analysis. Pattern Recognition Letters, 27(8), 861–874.](https://doi.org/10.1016/j.patrec.2005.10.010)| 
-|16| Final-term project presentation/exam|
+|16| Final project presentation/exam|
+|17| Self-study|
+|18| Final exam week|
 
 ## Projects
 
