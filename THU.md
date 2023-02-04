@@ -9,5 +9,5 @@ Graduate([GMBA](http://gmba.thu.edu.tw/))
 
 Undergraduate([GEP](https://mana.thu.edu.tw/web/page/page.php?scid=87&sid=76))
 
-- 1161, [Western Culture and Society](/course/wcs.md)
-- 1155, [Product and Operations Management](/course/om.md)
+- 1161, [Western Culture and Society](/courses/wcs.md)
+- 1155, [Product and Operations Management](/courses/om.md)
