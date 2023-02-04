@@ -1,10 +1,10 @@
 # Dr. Brian Kim's curriculum
 
->Under construction!
-
-- [Tunghai University](THU.md)
+>This page is being updated continuously and won't be perfect ever. Thus, I constantly improve it with feedbacks from enthusiastic learners and educators like you!
 
 This is a list of courses offered by Dr. Brian Kim.
+
+- [Tunghai University](THU.md)
 
 ## Graduate level
 
