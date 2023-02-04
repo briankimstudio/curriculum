@@ -2,7 +2,7 @@
 
 ### Purpose
 
-- The goal of attending course is to practice systematic process to be professional in each intended field.
+- The goal of attending course is to practice systematic process to become a professional in each intended field.
 - Being professional requires three key capabilities
   1. Capability to create professional quality outcomes
   2. Capability to repeat 1 continuously
