@@ -1,5 +1,7 @@
 [Tunghai University](https://eng.thu.edu.tw/)
 
+[General Course Guideline](guideline.md)
+
 2023 Spring
 
 Graduate([GMBA](http://gmba.thu.edu.tw/))

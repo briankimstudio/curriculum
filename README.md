@@ -4,7 +4,7 @@
 
 This is a list of courses offered by Dr. Brian Kim.
 
-- [Tunghai University](THU.md)
+- [Tunghai University](THU/THU.md)
 
 ## Graduate level
 
