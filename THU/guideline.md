@@ -1,6 +1,6 @@
-# General Guidelines for Course Taker
+# General Guidelines for Taking Course
 
-### Purpose of Taking Course
+### Purpose
 
 - The goal of attending course is to practice systematic process to be professional in each intended field.
 - Being professional requires three key capabilities
