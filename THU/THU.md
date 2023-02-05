@@ -1,3 +1,5 @@
+![THU](https://briankimstudio.github.io/innovationlab/images/profile.png)
+
 [Tunghai University](https://eng.thu.edu.tw/)
 
 [General Course Guideline](guideline.md)
