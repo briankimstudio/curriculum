@@ -1,4 +1,4 @@
-![THU](https://briankimstudio.github.io/innovationlab/images/profile.png)
+![](<https://briankimstudio.github.io/innovationlab/images/profile.png> =100x)
 
 [Tunghai University](https://eng.thu.edu.tw/)
 
