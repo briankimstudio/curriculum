@@ -1,6 +1,6 @@
-![](https://briankimstudio.github.io/innovationlab/images/profile.png)
+### [Tunghai University](https://eng.thu.edu.tw/)
 
-[Tunghai University](https://eng.thu.edu.tw/)
+<img src="https://briankimstudio.github.io/innovationlab/images/profile.png" width=100>
 
 [General Course Guideline](guideline.md)
 
