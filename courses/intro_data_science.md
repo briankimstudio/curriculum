@@ -32,7 +32,7 @@ A sample lecture slide is available [here.](https://docs.google.com/presentation
 
 | Week | Description | Lab session |
 |:---:| ---| --- |
-|1 | Introduction<br>-Goals and expected outcomes<br>-Prerequisites<br>-Administrative details<br>*Reading list:<br>University regulations|
+|1 | Introduct course [guidelines](/THU/guideline.md)<br>-Goals and expected outcomes<br>-Prerequisites<br>-Administrative details<br>*Reading list:<br>University regulations|
 |2| What is data science? - Chapter 1<br>*Reading list:<br>Science Museum. (2014, October 22). How a British teashop helped create the first office computer I The Information Age Episode 4. https://www.youtube.com/watch?v=X0yYDxjBnTM|
 |3| Where is the data set? - Chapter 2<br>Structure - Structured, Unstructured, Semi-structured<br>Type - Quantitative, Categorical<br>Big Data - Volume, Variety, Velocity<br>*Reading list:<br>Laney, D. (2001). 3D Data Management: Controlling Data Volume, Velocity, and Variety. META Group Research Note, 6(70), 1.|
 |4 | What tools are available? - Chapter 3<br>Python, R, Weka, etc.| [Visual Studio Code](https://code.visualstudio.com/)<br>[Anaconda](https://www.anaconda.com/) |
@@ -62,7 +62,7 @@ A sample lecture slide is available [here.](https://docs.google.com/presentation
 
 ## Assessment
 
-- Group project (Report, Presentation): 15%; Individual project: 40% (Report, Presentation); In-class activities: 15%, Discussions: 30%
+- Group project: 50% (Written report, Presentation); In-class activities and Discussions: 30%; Attendance: 20%
 
 ## Tools for the lab session
 

@@ -14,23 +14,44 @@ Production and operations management is concerned with the design, planning and 
 
 ## Weekly schedule
 
+1. Introduction to the course
+   - Introduct course [guidelines](/THU/guideline.md)
+     - Attendance, Homework, Group communication, Presentation, etc.
+   - Configure groups for project.
+   - Setup and practice communication channel for question and group project.
+
 1. Introduction to Operations Management
+
 2. Competitiveness, Strategy, and Productivity 
+
 3. Forecasting 
+
 4. Product and Service Design 
+
 5. Strategic Capacity Planning for Products and Services
+
 6. Process Selection and Facility Layout 
+
 7. Work Design and Measurement 
-8. Location Planning and Analysis 
+
 9. __MIDTERM EXAM WEEK__
+
+8. Location Planning and Analysis 
+
 10. Management of Quality 
+
 11. Quality Control 418
+
 12. Aggregate Planning and Master Scheduling 
+
 13. Inventory Management 
+
 14. MRP and ERP 
+
 15. JIT and Lean Operations 
-16. Supply Chain Management 
-17. Scheduling 
+
+16. Supply Chain Management, Scheduling  
+
 18. __FINAL EXAM WEEK__
 
 ## Projects
@@ -47,4 +68,4 @@ Production and operations management is concerned with the design, planning and 
 
 ## Assessment
 
-- Group project (Report, Presentation): 15%; Individual project: 40% (Report, Presentation); In-class activities: 15%, Discussions: 30%
+- Group project: 50% (Written report, Presentation); In-class activities and Discussions: 30%; Attendance: 20%

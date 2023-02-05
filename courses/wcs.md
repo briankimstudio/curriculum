@@ -16,8 +16,8 @@ What is it like to live in Western countries like the US, Europe, and Canada? Ho
 ## Weekly schedule
 
 1. Introduction to the course
-   - Introduct course guidelines.
-     - Attendance, Homework, Group communication, Presentation, etc.)
+   - Introduct course [guidelines](/THU/guideline.md)
+     - Attendance, Homework, Group communication, Presentation, etc.
    - Configure groups for project.
    - Setup and practice communication channel for question and group project.
    
