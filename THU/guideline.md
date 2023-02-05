@@ -5,8 +5,8 @@
 - The goal of attending course is to practice systematic process to become a professional in each intended field.
 - Being a professional requires three key capabilities;
   1. Capability to create professional quality outcomes
-  2. Capability to repeat #1 within given time limit
-  3. Capability to repeat #1 continuously and repeatedly
+  2. Capability to complete the task within given time limit
+  3. Capability to repeat #1 and #2 continuously
 
 ### Required Attitude
 
