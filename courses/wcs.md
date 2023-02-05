@@ -7,19 +7,21 @@ What is it like to live in Western countries like the US, Europe, and Canada? Ho
 ## Learning objectives
 
 1. To introduce American value systems
-2. To understand goal of western education systems
-3. To analyze how langague affect thought
-4. To compare cultural differentce in entrepreneurship
+2. To understand goal of Western education systems
+3. To analyze how language affect thought
+4. To compare cultural difference in entrepreneurship
 5. To understand role of diversity
 6. To practice public speaking and presentation skills
 
 ## Weekly schedule
 
 1. Introduction to the course
-   - Configure groups for project
-   - Slack: primary group messaging tool for class
+   - Introduct course guidelines.
+     - Attendance, Homework, Group communication, Presentation, etc.)
+   - Configure groups for project.
+   - Setup and practice communication channel for question and group project.
    
-2. American values #1: Individualism, Equlity, Informality
+2. American values #1: Individualism, Equality, Informality
    - Kohls, L. R. (1984). The Values Americans Live By.
    - Althen, G., Doran, A. R., & Szmania, S. J. (2003). American ways: A guide for foreigners in the United States (2nd ed). Intercultural Press.
 
@@ -28,17 +30,17 @@ What is it like to live in Western countries like the US, Europe, and Canada? Ho
 4. American values #2: 
    - The future, change, and progress
    - Achievement, Action, Work, and Materialism
-   - Directness and Assertivenss
+   - Directness and Assertiveness
    - Time
 
 5. Presentation: How different is the value system between USA and your country?
    - Team presentation(5 min) and Q&A(5 min)
 
-6. What does western education expect from students?
+6. What does Western education expect from students?
 
    - EO (Director). (2022, November 23). An Associate Dean of Stanford Was A Bottom Student | Paul Kim. https://www.youtube.com/watch?v=dKKo2_rblF4
 
-7. Presentation: What is the goal of education systsem in your country?
+7. Presentation: What is the goal of education system in your country?
    - Team presentation(5 min) and Q&A(5 min)
 
 8. Break
@@ -74,7 +76,7 @@ What is it like to live in Western countries like the US, Europe, and Canada? Ho
 
 ## Projects
 
-- Group project
+- Group project: Topic will be assigned in class.
 
 ## Textbooks
 
@@ -82,4 +84,4 @@ Some required class preparation (readings, videos, etc.) are open source (free).
 
 ## Assessment
 
-- Preparation and Attendance: 20%; Team project: 50% (Report, Presentation); In-class activities and Discussions: 50%
+- Group project: 50% (Written report, Presentation); In-class activities and Discussions: 30%; Attendance: 20%
